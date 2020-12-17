@@ -1,0 +1,16 @@
+.headings {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-repeat: no-repeat ;
+    background-image: url(main.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h3 {
+    color:blue;
+}
+td {
+    font-weight: bold;
+}
